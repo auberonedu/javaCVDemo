@@ -20,6 +20,21 @@
       <version>5.10.0</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+        <groupId>org.bytedeco</groupId>
+        <artifactId>javacv</artifactId>
+        <version>1.5.10</version>
+    </dependency>
+    <dependency>
+        <groupId>org.bytedeco</groupId>
+        <artifactId>opencv</artifactId>
+        <version>4.9.0-1.5.10</version>
+    </dependency>
+    <dependency>
+        <groupId>org.bytedeco</groupId>
+        <artifactId>opencv-platform</artifactId>
+        <version>4.9.0-1.5.10</version>
+    </dependency>
   </dependencies>
 
   <build>
